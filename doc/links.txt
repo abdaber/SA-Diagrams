@@ -1,3 +1,7 @@
 C4 Context Diagram: https://lucid.app/lucidchart/555f3218-673f-4d56-a130-ee8b4cd16e99/edit?viewport_loc=1013%2C-3508%2C2694%2C1346%2C0_0&invitationId=inv_1ab02f79-2d15-422e-ab0a-5036150db7b5
 C4 Container Diagram: https://lucid.app/lucidchart/77cd1cb5-3b9c-4604-aac0-f41d92b2fb02/edit?viewport_loc=-152%2C-5225%2C10448%2C5221%2C0_0&invitationId=inv_7e9743c8-8d1c-42a1-b44c-7fdc47539412
 Component Diagram: https://lucid.app/lucidchart/1914ac09-c8e2-4d9a-ae23-2c3d8a505874/edit?viewport_loc=108%2C-2000%2C2842%2C1420%2C0_0&invitationId=inv_7cbb79d0-670e-4064-943f-6c08894e3b79
+Sequnce Diagram 1: https://lucid.app/lucidchart/d63b27a9-a839-4018-a512-9db75bc9e9ef/edit?viewport_loc=1335%2C-3499%2C2175%2C1087%2C0_0&invitationId=inv_6e4009c3-d2cf-4c2e-b859-ee99d3f686d5
+Sequence Diagram 2: https://lucid.app/lucidchart/4ed10041-62cf-483f-b5b2-7162d0ae1742/edit?viewport_loc=-427%2C-1691%2C2560%2C1141%2C0_0&invitationId=inv_ab844344-b10c-426e-a2ec-afa0bb62945f
+UML Use-Case Diagram: https://lucid.app/lucidchart/5fd9094b-4627-4ac0-87f4-4fda14f175f1/edit?viewport_loc=1251%2C-1260%2C2201%2C1100%2C0_0&invitationId=inv_5075a81e-5c9a-415a-8225-102d0d8edcc7
+ER Diagram: https://lucid.app/lucidchart/85988b51-3dda-4ce6-930c-2b5892ccd0c1/edit?viewport_loc=-1932%2C-3476%2C4893%2C2445%2C0_0&invitationId=inv_a9739567-3e3d-42e1-b06b-35f8d85183a1
